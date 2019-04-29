@@ -1,0 +1,25 @@
+div.drawingcanvas {
+    height: 700px;
+}
+
+div.toolbar {
+    /* display: table; */
+    height: 700px;
+}
+
+.brand-logo {
+    margin-left: 30px;
+}
+
+i.large {
+    font-size: 40px !important;
+    color:white;
+}
+
+.toolnav {
+    margin-top: 5%;
+}
+
+img:hover {
+    border: 2px solid red;
+}
