@@ -15,8 +15,8 @@ It is also able to do the following:
  - Translation [x]
  - Scaling [x]
  - Rotation [x]
- - Save  [ ]
- - Load Diagram [ ]
+ - Save  [x]
+ - Load Diagram [x]
  
  I used a JavaScript library called [FabricJS](http://fabricjs.com/ "Fabric's Homepage") to implement all of the shapes and the translationg, scaling, etc.
  I also used Materialized CSS framework to do most of the styling.
